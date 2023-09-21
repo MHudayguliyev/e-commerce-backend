@@ -1,0 +1,19 @@
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'length')","timestamp":"2023-07-10T07:33:26.968Z"}
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'length')","timestamp":"2023-07-10T07:33:46.325Z"}
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'length')","timestamp":"2023-07-10T07:34:30.900Z"}
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'length')","timestamp":"2023-07-10T13:21:11.013Z"}
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'length')","timestamp":"2023-07-10T13:21:41.028Z"}
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'length')","timestamp":"2023-07-10T13:22:31.127Z"}
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'length')","timestamp":"2023-07-10T13:23:07.938Z"}
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'length')","timestamp":"2023-07-10T13:23:23.603Z"}
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'length')","timestamp":"2023-07-10T13:23:59.962Z"}
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'length')","timestamp":"2023-07-11T10:45:08.125Z"}
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'length')","timestamp":"2023-07-11T10:47:09.442Z"}
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'length')","timestamp":"2023-07-11T10:47:22.708Z"}
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'length')","timestamp":"2023-07-11T10:47:45.876Z"}
+{"level":"error","message":"AuthController.js ~ Register: error: null value in column \"partner_code\" of relation \"tbl_partners\" violates not-null constraint","timestamp":"2023-07-20T13:24:45.776Z"}
+{"level":"error","message":"AuthController.js ~ Register: error: null value in column \"partner_code\" of relation \"tbl_partners\" violates not-null constraint","timestamp":"2023-07-21T11:36:23.373Z"}
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'phone')","timestamp":"2023-07-30T07:08:50.339Z"}
+{"level":"error","message":"Main uncaughtException error: TypeError: Cannot read properties of undefined (reading 'phone')","timestamp":"2023-07-30T07:10:12.690Z"}
+{"level":"error","message":"AuthController.js ~ Register: error: null value in column \"partner_code\" of relation \"tbl_partners\" violates not-null constraint","timestamp":"2023-08-05T10:37:22.964Z"}
+{"level":"error","message":"AuthController.js ~ Register: error: null value in column \"partner_code\" of relation \"tbl_partners\" violates not-null constraint","timestamp":"2023-08-05T10:38:26.793Z"}
